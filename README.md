@@ -1,16 +1,16 @@
 ## Hey, I'm Diego Vieira! 👋
 
-💻 Back-End developer at Prodigious
+💻  Back-End developer at Prodigious
 <br>
-🇧🇷 Living in Pelotas, Rio Grande do Sul
+🇧🇷  Living in Pelotas, Rio Grande do Sul
 
 ### Find me elsewhere 🌎
 
-🚀 [Site](https://diegocvieira.github.io/)
+🚀  [Site](https://diegocvieira.github.io/)
 <br>
-💼 [LinkedIn](https://www.linkedin.com/in/diegocvieira/)
+💼  [LinkedIn](https://www.linkedin.com/in/diegocvieira/)
 <br>
-📸 [Instagram](https://www.instagram.com/vieiracdiego/)
+📸  [Instagram](https://www.instagram.com/vieiracdiego/)
 
 <!--
 **diegocvieira/diegocvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
