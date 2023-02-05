@@ -1,8 +1,8 @@
 ## Hey, I'm Diego Vieira! 👋
 
-💻  Back-End developer at Prodigious
+💻  Tech Lead at Inbenta
 <br>
-🇧🇷  Living in Pelotas, Rio Grande do Sul
+🇧🇷  Living in Brazil
 
 ### Find me elsewhere 🌎
 
