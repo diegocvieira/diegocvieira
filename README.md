@@ -10,7 +10,7 @@
 <br>
 💼  [LinkedIn](https://www.linkedin.com/in/diegocvieira/)
 <br>
-📸  [Instagram](https://www.instagram.com/vieiracdiego/)
+📸  [Instagram](https://www.instagram.com/diegovieira.dev/)
 
 <!--
 **diegocvieira/diegocvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
