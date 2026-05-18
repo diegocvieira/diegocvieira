@@ -1,6 +1,6 @@
 ## Hey, I'm Diego Vieira! 👋
 
-💻  Tech Lead at Inbenta
+💻  Lead Software Engineer at Inbenta
 <br>
 🇧🇷  Living in Brazil
 
